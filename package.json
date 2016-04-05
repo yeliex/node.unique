@@ -1,0 +1,24 @@
+{
+  "name": "node.unique",
+  "version": "1.0.1",
+  "description": "Sorts an array with duplicates removed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/yeliex/node.unique.git"
+  },
+  "keywords": [
+    "node",
+    "array",
+    "unique"
+  ],
+  "author": "yeliex",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yeliex/node.unique/issues"
+  },
+  "homepage": "https://github.com/yeliex/node.unique#readme"
+}
